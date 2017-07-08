@@ -1,2 +1,2 @@
-Bayesian Text Rating
-====================
+Bayesian Text Sentiment
+=======================
